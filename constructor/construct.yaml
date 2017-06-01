@@ -1,0 +1,12 @@
+name:
+    jupyternb
+version:
+    1
+channels:
+    - http://repo.continuum.io/pkgs/free/
+specs:
+    - jupyter
+    - notebook
+    - numpy
+    - matplotlib
+    - pandas
