@@ -1,0 +1,348 @@
+{
+    "mark": [
+        {
+            "name": "appdirs",
+            "state": "auto"
+        },
+        {
+            "name": "appnope",
+            "state": "auto"
+        },
+        {
+            "name": "backports.abc",
+            "state": "auto"
+        },
+        {
+            "name": "backports.shutil_get_terminal_size",
+            "state": "auto"
+        },
+        {
+            "name": "backports_abc_remove",
+            "state": "auto"
+        },
+        {
+            "name": "bleach",
+            "state": "auto"
+        },
+        {
+            "name": "certifi",
+            "state": "auto"
+        },
+        {
+            "name": "configobj",
+            "state": "auto"
+        },
+        {
+            "name": "configparser",
+            "state": "auto"
+        },
+        {
+            "name": "cycler",
+            "state": "auto"
+        },
+        {
+            "name": "decorator",
+            "state": "auto"
+        },
+        {
+            "name": "distribute_remove",
+            "state": "auto"
+        },
+        {
+            "name": "entrypoints",
+            "state": "auto"
+        },
+        {
+            "name": "enum34",
+            "state": "auto"
+        },
+        {
+            "name": "freetype",
+            "state": "auto"
+        },
+        {
+            "name": "functools32",
+            "state": "auto"
+        },
+        {
+            "name": "html5lib",
+            "state": "auto"
+        },
+        {
+            "name": "ipykernel",
+            "state": "auto"
+        },
+        {
+            "name": "ipython4",
+            "state": "auto"
+        },
+        {
+            "name": "ipython_genutils",
+            "state": "auto"
+        },
+        {
+            "name": "ipywidgets",
+            "state": "auto"
+        },
+        {
+            "name": "jinja2",
+            "state": "auto"
+        },
+        {
+            "name": "jsonschema",
+            "state": "auto"
+        },
+        {
+            "name": "jupyter",
+            "state": "manual"
+        },
+        {
+            "name": "jupyter_client",
+            "state": "auto"
+        },
+        {
+            "name": "jupyter_console",
+            "state": "auto"
+        },
+        {
+            "name": "jupyter_core",
+            "state": "auto"
+        },
+        {
+            "name": "libpng",
+            "state": "auto"
+        },
+        {
+            "name": "markupsafe",
+            "state": "auto"
+        },
+        {
+            "name": "matplotlib",
+            "state": "manual"
+        },
+        {
+            "name": "mistune",
+            "state": "auto"
+        },
+        {
+            "name": "mkl",
+            "state": "auto"
+        },
+        {
+            "name": "nbconvert",
+            "state": "auto"
+        },
+        {
+            "name": "nbformat",
+            "state": "auto"
+        },
+        {
+            "name": "notebook",
+            "state": "manual"
+        },
+        {
+            "name": "numpy",
+            "state": "manual"
+        },
+        {
+            "name": "packaging",
+            "state": "auto"
+        },
+        {
+            "name": "pandas",
+            "state": "manual"
+        },
+        {
+            "name": "pandocfilters",
+            "state": "auto"
+        },
+        {
+            "name": "path.py",
+            "state": "auto"
+        },
+        {
+            "name": "pathlib2",
+            "state": "auto"
+        },
+        {
+            "name": "pexpect",
+            "state": "auto"
+        },
+        {
+            "name": "pickleshare",
+            "state": "auto"
+        },
+        {
+            "name": "pip",
+            "state": "manual"
+        },
+        {
+            "name": "prompt_toolkit",
+            "state": "auto"
+        },
+        {
+            "name": "ptyprocess",
+            "state": "auto"
+        },
+        {
+            "name": "pygments",
+            "state": "auto"
+        },
+        {
+            "name": "pyparsing",
+            "state": "auto"
+        },
+        {
+            "name": "python_dateutil",
+            "state": "auto"
+        },
+        {
+            "name": "pytz",
+            "state": "auto"
+        },
+        {
+            "name": "pyzmq",
+            "state": "auto"
+        },
+        {
+            "name": "qtconsole",
+            "state": "auto"
+        },
+        {
+            "name": "setuptools",
+            "state": "manual"
+        },
+        {
+            "name": "simplegeneric",
+            "state": "auto"
+        },
+        {
+            "name": "singledispatch",
+            "state": "auto"
+        },
+        {
+            "name": "six",
+            "state": "auto"
+        },
+        {
+            "name": "ssl_match_hostname",
+            "state": "auto"
+        },
+        {
+            "name": "terminado",
+            "state": "auto"
+        },
+        {
+            "name": "testpath",
+            "state": "auto"
+        },
+        {
+            "name": "tornado",
+            "state": "auto"
+        },
+        {
+            "name": "traitlets",
+            "state": "auto"
+        },
+        {
+            "name": "wcwidth",
+            "state": "auto"
+        },
+        {
+            "name": "widgetsnbextension",
+            "state": "auto"
+        },
+        {
+            "name": "zeromq",
+            "state": "auto"
+        }
+    ],
+    "metadata_version": "1.0",
+    "modifiers": {
+        "allow_any": [],
+        "allow_newer": [],
+        "allow_older": []
+    },
+    "repositories": {
+        "packages": [
+            "enthought/commercial",
+            "enthought/canopy-dev",
+            "enthought/free"
+        ],
+        "runtimes": [
+            "enthought/free"
+        ]
+    },
+    "requirements": [
+        "appdirs-1.4.3-1",
+        "appnope-0.1.0-1",
+        "backports.abc-0.5-1",
+        "backports.shutil_get_terminal_size-1.0.0-1",
+        "backports_abc_remove-0.4-2",
+        "bleach-1.5.0-1",
+        "certifi-2016.9.26-1",
+        "configobj-5.0.6-2",
+        "configparser-3.5.0-1",
+        "cycler-0.10.0-1",
+        "decorator-4.0.9-1",
+        "distribute_remove-1.0.0-4",
+        "entrypoints-0.2.2-1",
+        "enum34-1.1.6-1",
+        "freetype-2.5.3-7",
+        "functools32-3.2.3.2-1",
+        "html5lib-0.999-2",
+        "ipykernel-4.5.2-4",
+        "ipython4-5.3.0-2",
+        "ipython_genutils-0.1.0-1",
+        "ipywidgets-6.0.0-1",
+        "jinja2-2.9.5-1",
+        "jsonschema-2.5.1-3",
+        "jupyter-1.0.0-21",
+        "jupyter_client-5.0.0-3",
+        "jupyter_console-5.1.0-2",
+        "jupyter_core-4.3.0-2",
+        "libpng-1.6.12-6",
+        "markupsafe-0.23-2",
+        "matplotlib-2.0.0-3",
+        "mistune-0.7.4-1",
+        "mkl-2017.0.1-2",
+        "nbconvert-5.1.1-2",
+        "nbformat-4.3.0-1",
+        "notebook-4.4.1-2",
+        "numpy-1.11.3-2",
+        "packaging-16.8-2",
+        "pandas-0.19.2-4",
+        "pandocfilters-1.4.1-1",
+        "path.py-8.1.1-3",
+        "pathlib2-2.1.0-1",
+        "pexpect-3.3-2",
+        "pickleshare-0.7.4-1",
+        "pip-9.0.1-1",
+        "prompt_toolkit-1.0.13-1",
+        "ptyprocess-0.4-1",
+        "pygments-2.1.3-1",
+        "pyparsing-2.2.0-1",
+        "python_dateutil-2.6.0-1",
+        "pytz-2016.3-1",
+        "pyzmq-16.0.0-4",
+        "qtconsole-4.2.1-8",
+        "setuptools-34.3.3-1",
+        "simplegeneric-0.8.1-1",
+        "singledispatch-3.4.0.3-1",
+        "six-1.10.0-1",
+        "ssl_match_hostname-3.4.0.2-1",
+        "terminado-0.5-5",
+        "testpath-0.3-1",
+        "tornado-4.4.2-1",
+        "traitlets-4.3.2-1",
+        "wcwidth-0.1.7-1",
+        "widgetsnbextension-2.0.0-1",
+        "zeromq-4.1.5-1"
+    ],
+    "runtime": {
+        "implementation": "cpython",
+        "platform": "osx_x86_64",
+        "platform_abi": "darwin",
+        "version": "2.7.13+3"
+    }
+}
